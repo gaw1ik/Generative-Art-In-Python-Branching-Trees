@@ -1,4 +1,4 @@
-# Generative Art In Python: Tree Branching
+# Generative Art In Python: Branching Trees
 
 <p align="center">
    <img src="https://github.com/gaw1ik/Generative-Art-In-Python-Tree-Branching/blob/master/example2.png" width="48.5%"/>
