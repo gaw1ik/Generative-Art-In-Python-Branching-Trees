@@ -1,1 +1,1 @@
-# Generative-Art-In-Python-Tree-Branching
+# Generative Art In Python Tree Branching
