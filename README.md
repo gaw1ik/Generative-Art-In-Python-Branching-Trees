@@ -2,6 +2,8 @@
 
 This repo details an algorithm for creating a branching structure for generative art creations. This algorithm can be used to create anything with a branching geometry, most notably - trees. 
 
+If you would like to follow my art (and also gawk at some old food pics) you can check me out on instagram  [@brian_gawlik](https://www.instagram.com/brian_gawlik/?hl=en).
+
 <p align="center">
    <img src="https://github.com/gaw1ik/Generative-Art-In-Python-Tree-Branching/blob/master/example2.png" width="48.5%"/>
    <img src="https://github.com/gaw1ik/Generative-Art-In-Python-Tree-Branching/blob/master/test2.gif" width="48.5%"/>
